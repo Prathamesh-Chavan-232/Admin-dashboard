@@ -22,11 +22,9 @@ ReactDOM.render(
 // [ ] : Setup google signin
 // [ ] : Setup 2FA
 
-// NOTE: Firebase Tasks
-// [ ] : Connect with Firebase
+// NOTE: Database Tasks
+// [ ] : Connect with MongoDB
+// [ ] : Setup Backend with Node & ExpressJs
 // [ ] : Create a User Database
 
-// NOTE: AZURE Api
-// [ ] : Configure Azure Api
-// [ ] : Integrate Api data with website
-// [ ] : Create Graphs using integrated data
+// NOTE: // [ ] : Setup a Usecase
