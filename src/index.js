@@ -12,7 +12,7 @@ ReactDOM.render(
 );
 
 // NOTE: Frontend Tasks
-// [ ] : Make complete structure (Sidebar,Navbar, Dialog boxes & other components)
+// [ ]: Make complete structure (Sidebar,Navbar, Dialog boxes & other components)
 // [ ] : Make charts
 // [ ] : Add animations & themeing
 
@@ -26,5 +26,3 @@ ReactDOM.render(
 // [ ] : Connect with MongoDB
 // [ ] : Setup Backend with Node & ExpressJs
 // [ ] : Create a User Database
-
-// NOTE: // [ ] : Setup a Usecase
